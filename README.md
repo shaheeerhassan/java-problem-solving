@@ -1,62 +1,18 @@
-\# Java Problem Solving 🚀
+# 🧠 Java Problem Solving Repository
 
+Welcome to my **Java Problem Solving** repository — a personal collection of coding exercises designed to strengthen logical thinking, algorithmic skills, and programming fundamentals.  
 
+This repo includes programs that cover everything from the simplest logic problems to slightly more challenging ones — organized neatly by topic for easy navigation.
 
-A growing collection of Java programs solving classic programming and logic problems — from basic math and loops to arrays, strings, and recursion.
+---
 
+## 🚀 Topics Covered
 
-
-\## 📂 Structure
-
-
-
-java-problem-solving/
-
-│
-
-├── basics/ # simple problems (even/odd, leap year, etc.)
-
-├── loops/ # factorial, Fibonacci, etc.
-
-├── numbers/ # prime, GCD, LCM, etc.
-
-├── arrays/ # array-based problems
-
-├── strings/ # string manipulation programs
-
-├── patterns/ # star and number patterns
-
-
-
-
-
-\## 🧠 Topics Covered
-
-\- Loops and conditionals  
-
-\- Functions and recursion  
-
-\- Arrays and strings  
-
-\- Math and number theory  
-
-\- Pattern printing  
-
-
-
-\## 💻 How to Run
-
-Each file has its own `main()` method.  
-
-Compile and run any file with:
-
-
-
-```bash
-
-javac filename.java
-
-java filename
-
-
+✅ Basic input/output and conditionals  
+✅ Loops and iterations  
+✅ Functions and recursion  
+✅ Number theory problems  
+✅ Arrays and strings  
+✅ Pattern printing  
+✅ Logical and mathematical challenges
 
