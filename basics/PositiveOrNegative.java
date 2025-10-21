@@ -1,3 +1,5 @@
+// Q - Check if a number is positive, negative, or zero
+
 import java.util.Scanner;
 
 public class PositiveOrNegative {
@@ -7,6 +9,7 @@ public class PositiveOrNegative {
         int num = in.nextInt();
         in.close();
 
+        //Conditions
         if(num==0) System.out.println(num+" is zero");
         else if(num>0) System.out.println(num+" is positive");
         else System.out.println(num+" is negative");

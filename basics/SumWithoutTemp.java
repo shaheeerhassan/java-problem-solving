@@ -1,3 +1,5 @@
+//Q - Swap two numbers without using a third variable
+
 public class SumWithoutTemp {
     public static void main(String[] args) {
         //Initialize two variables
